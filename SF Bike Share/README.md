@@ -13,7 +13,9 @@ It explores the data set in the following direction:
 
 Possible business insights:
 * The analysis can suggest a reasonable battery capacity of the scooters to the stakeholders.
-* It provides insights on optimizing the allocation of scooters such that the demand can be fulfilled to the best extent. 
+* It provides insights on optimizing the allocation of scooters such that the demand can be fulfilled to the best extent.
+
+To View the cell outputs, please refer to this Kaggle [kernel](https://www.kaggle.com/yingxuhe/sf-bike-share-he-yingxu).
 
 ## Credit:
 * [Major Transit Stops (2017)](http://opendata.mtc.ca.gov/datasets/major-transit-stops-2017) dataset provided by [MTC GIS](http://gis.mtc.ca.gov/home/#we-are-mtc).
